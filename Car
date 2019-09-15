@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am carriedanielle on github.
+  * I am carriedanielle (https://keybase.io/carriedanielle) on keybase.
+  * I have a public key ASA_YK1lv4Db5rHSDpGKY9tVE0JHDD6YkkTURGKomVFCFQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203f60ad65bf80dbe6b1d20e918a63db551342470c3e989244d44462a8995142150a",
+      "host": "keybase.io",
+      "kid": "01203f60ad65bf80dbe6b1d20e918a63db551342470c3e989244d44462a8995142150a",
+      "uid": "790b191b7e7097947f5d536da6076f19",
+      "username": "carriedanielle"
+    },
+    "merkle_root": {
+      "ctime": 1568557657,
+      "hash": "5b6c61fd75a9d8b8750e159d6e8d6e79a602cfa00af4635171437bd21e2195ffd3f7004d958f43f739741c7c7d58721aefb59a26092daf31a64bb8bba452fb24",
+      "hash_meta": "f5de49691444121aca62672248bdc3a30b7b5b6ba3175d89170bf0ca385c46f7",
+      "seqno": 7397411
+    },
+    "service": {
+      "entropy": "zi2ta0JY84S/JIlt9DoqB9q7",
+      "name": "github",
+      "username": "carriedanielle"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568557688,
+  "expire_in": 504576000,
+  "prev": "62562b235e55ac9c620ee699c33ddedf2c48e39e46bbf4e6c5bdc5da0f1e2d9b",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASA_YK1lv4Db5rHSDpGKY9tVE0JHDD6YkkTURGKomVFCFQo](https://keybase.io/carriedanielle), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgP2CtZb+A2+ax0g6RimPbVRNCRww+mJJE1ERiqJlRQhUKp3BheWxvYWTESpcCBcQgYlYrI15VrJxiDuaZwz3e3yxI455Gu/Tmxb3F2g8eLZvEIAPbpMf+uvIV91iq9A0XtRvSFfG55CGt7akfPsUlVhnMAgHCo3NpZ8RAbr56tlMKDm5Iq+kpqQCE+GrAgcEJOS5JvJrCG8XYtLtLBJZuo2N+SRp7PdI1TIY9vjq3saCJoB/46nzwTf4ECKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINUkTgVFBFdzeKR64mPZe6+L1ZTTSzHVcTkGHOFe74MMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/carriedanielle
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id carriedanielle
+```
